@@ -1,0 +1,12 @@
+1) 
+Git is a distributed version control system to manage source code history. Git is installed locally on the system	
+GitHub is a hosting service for Git repositories
+GitHub is hosted on the web
+2) 
+git config : It helps in configuring the values on a global or local project level. It configures username and email address.
+git add : It adds one or more files to the git repository.
+git diff : It helps to find and view the changes made to the file between commits.
+git init : It is used to initialise a repository.
+git commit : It is used to commit all the changes made the file with a single command.
+3) 
+Click on the " create pull request" on GitHub then confirm the branch in the base.
